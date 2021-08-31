@@ -1,1 +1,2 @@
 # flussobrowser
+Firefox-based browser.
